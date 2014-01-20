@@ -1,0 +1,17 @@
+{
+  "name": "angular-stepper",
+  "main": "angular-stepper.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/opendena/angular-stepper",
+  "authors": [
+    "Regis MARTIN <regis.gravatar.com@denaroo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
